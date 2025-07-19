@@ -75,7 +75,7 @@ function App() {
     <div className="App">
       <header className="header">
         <div className="container">
-          <h1>Extension List Management</h1>
+          <h1>ZMC Extension List</h1>
         </div>
       </header>
 
